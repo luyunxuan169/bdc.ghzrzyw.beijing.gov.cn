@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>文件下载中心</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding: 50px; }
+        .file { background: #f4f4f4; padding: 15px; margin: 10px auto; border-radius: 5px; width: 300px; }
+    </style>
+</head>
+<body>
+    <h1>文件下载</h1>
+    <p>上传文件后，链接将自动显示在这里。</p>
+    <!-- 后续文件链接会自动出现在下方 -->
+</body>
+</html>
